@@ -12,3 +12,7 @@ SQL injection queries used in "search.php" page(used to print userid and name of
     USE -> This query is used to update the 'users' table and set name of all users to 'mnp'.
 4.) INPUT -> a' UNION SELECT table_name,null FROM information_schema.tables #
     USE -> To print all the table names present in database at the moment.
+
+
+
+We should organize whole code in a standard way. Try to follow MVC . 
